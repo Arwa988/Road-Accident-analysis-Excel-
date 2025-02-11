@@ -6,3 +6,4 @@ Track the road accidents along differnt durations in the day , know the effect o
 - filling the blank cells into unkown
 - converting the time columns into duration (Early Morning, Morning ,Afternoon, Evening,Night)
 ## Pivot table:
+![Alt text](https://example.com/image.png)
