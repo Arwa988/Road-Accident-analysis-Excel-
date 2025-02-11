@@ -9,3 +9,4 @@ Track the road accidents along differnt durations in the day , know the effect o
 ![Alt text](https://github.com/Arwa988/Road-Accident-analysis-Excel-/blob/main/pivot.png)
 ## Dashboard:
 ![Alt text](https://github.com/Arwa988/Road-Accident-analysis-Excel-/blob/main/dashboard.png)
+## Important insights:
