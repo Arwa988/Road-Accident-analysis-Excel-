@@ -18,4 +18,8 @@ Track the road accidents along differnt durations in the day , know the effect o
 - Automobile and Lory (41?100Q) are the most exposed to accidents.
 - vehcile with vehicle and vehicle with roadside object are the most collision types happen.
 - (No distancing,Changing lane to the right,Changing lane to the left,Driving carelessly,No priority to vehicle) are the top 5 reasons of accidents .
-  
+## Recommendations:
+- manage the traffic strongly at Fridays and Saturdays and at rainy days by placing a large number of traffic officers at these sitiuations.
+- put large number of traffic lights in the streets.
+- put license on not increasing the speed of driving and prevent the driving of  high school students and who break the rules will be exposed to great punishment.
+- lorries and trucks must be found in road with small number of cars and with low speed.
