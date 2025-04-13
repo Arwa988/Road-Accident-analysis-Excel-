@@ -8,7 +8,7 @@ Track the road accidents along differnt durations in the day , know the effect o
 ## Pivot table:
 ![Alt text](https://github.com/Arwa988/Road-Accident-analysis-Excel-/blob/main/pivot.png)
 ## Dashboard:
-![Alt text](https://github.com/Arwa988/Road-Accident-analysis-Excel-/blob/main/dashboard.png)
+![Alt text](https://github.com/Arwa988/Road-Accident-analysis-Excel-/blob/main/images/Road%20Analysis%20dataset.png)
 ## Important insights:
 - (18-30) age band are the highest band exposed to accidents,
 - males are exposed to accidents more than femals.
